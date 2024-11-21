@@ -1,24 +1,24 @@
-# Table of contents
+# Оглавление
 
-* [Welcome](README.md)
-* [FAQ](faq.md)
+* [Добро пожаловать](README.md)  
+* [Часто задаваемые вопросы](faq.md)  
 
-## Getting Started
+## Начало работы  
 
-* [Quickstart](getting-started/quickstart.md)
-* [Installation](getting-started/installation.md)
+* [Быстрый старт](getting-started/quickstart.md)  
+* [Установка](getting-started/installation.md)  
 
-## Features
+## Особенности  
 
-* [Aimbot](features/aimbot.md)
-* [Misc](features/misc.md)
-* [Visuals & HUD](features/visuals-hud.md)
-* [Settings](features/settings.md)
+* [Аимбот](features/aimbot.md)  
+* [Прочее](features/misc.md)  
+* [Визуалы](features/visuals-hud.md)  
+* [Настройки](features/settings.md)  
 
-## Ultimate Features
+## Ультимативные возможности  
 
-* [Gores Bot](features/avoid.md)
-    * [Legit](features/goresbot/legit.md)
-    * [Blatant](features/goresbot/blatant.md)
-    * [Fentbot](features/goresbot/fentbot.md)
-* [TAS](features/tas.md)
+* [Горес Бот](features/avoid.md)  
+    * [Легит](features/goresbot/legit.md)  
+    * [Blatant](features/goresbot/blatant.md)  
+    * [Fentbot](features/goresbot/fentbot.md)  
+* [TAS](features/tas.md)  
